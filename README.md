@@ -1,5 +1,9 @@
 ## Instruction
 
+### Data
+
+Due to the file size limitation, the data are hosted on Dropbox. The download link is available [here](https://www.dropbox.com/scl/fo/d7cwed7pc79661zyfm2h5/AFL3lKgh-KjTbie6p9kAkD4?rlkey=gxpsi39ht96wsmaz8ez03u9nv&st=66f38mec&dl=0). 
+
 ### Libraries (version)
 
 ```bash
@@ -28,6 +32,6 @@ Please install d4rl according to the instruction in: https://github.com/Farama-F
 ### Scripts
 
 - Figure 3: run `simu.py`
-- Figure 4: `python OfflineRL-Kit/run_example/run_ssl_mopo.py --task='halfcheetah-full-replay-v2'` to get the result in the top-left panel. Similar for remaining panels
-- Figure 5: code in `coverage_increase.py`
+- Figure 4: run `python OfflineRL-Kit/run_example/run_ssl_mopo.py --task='halfcheetah-full-replay-v2'` to get the result shown in the top-left panel. The remaining panels can get via similar commands. 
+- Figure 5: run `coverage_increase.py`
 
